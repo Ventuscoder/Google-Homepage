@@ -1,0 +1,27 @@
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.right {
+    float: right;
+    margin: 15px;
+    font-size: 90%;
+}
+.right a {
+    padding: 10px;
+    margin: 9px;
+}
+.sign-in {
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+}
+.search-wrapper {
+    text-align: center;
+    position: relative;
+    top: 155px;
+    left: 160px;
+}
